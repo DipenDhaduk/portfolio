@@ -50,10 +50,10 @@ Long description
 
 ### 2. Ez Clocker
 App icon
-![1-removebg-preview](https://user-images.githubusercontent.com/108887237/178545249-32c709b6-506c-445b-b0e8-2095b50a3f24.png)
-![2-removebg-preview](https://user-images.githubusercontent.com/108887237/178545258-6e2bbd2c-102e-45b0-99f7-bc7bc166f8f9.png)
-![3-removebg-preview](https://user-images.githubusercontent.com/108887237/178545264-615b7251-8f91-48b4-a663-73e3c50324d5.png)
-![4-removebg-preview](https://user-images.githubusercontent.com/108887237/178545267-bef6f30d-523f-46e5-a8c7-b379e2b454f7.png)
+- ![1-removebg-preview](https://user-images.githubusercontent.com/108887237/178545249-32c709b6-506c-445b-b0e8-2095b50a3f24.png)
+- ![2-removebg-preview](https://user-images.githubusercontent.com/108887237/178545258-6e2bbd2c-102e-45b0-99f7-bc7bc166f8f9.png)
+- ![3-removebg-preview](https://user-images.githubusercontent.com/108887237/178545264-615b7251-8f91-48b4-a663-73e3c50324d5.png)
+- ![4-removebg-preview](https://user-images.githubusercontent.com/108887237/178545267-bef6f30d-523f-46e5-a8c7-b379e2b454f7.png)
 
 Short description
 

@@ -41,7 +41,7 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 ### 1. MeetingApp
 
 App icon
-- https://www.youtube.com/watch?v=Kk9aGpzB6Vc
+
 ![meeting-app](https://user-images.githubusercontent.com/108887237/178545031-29bcaf5f-6090-46cb-81ac-4e011d3922d0.jpg)
 
 Short description

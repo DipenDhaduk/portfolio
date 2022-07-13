@@ -87,6 +87,8 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 • Streamline and modernize the traditional time card system.
 
+
+
 ### 3. BuddyUp: Find Running Partners
 
 ![app-logo](https://user-images.githubusercontent.com/108887237/178771960-0c364360-6f83-414e-b254-4194cb591dca.png)
@@ -114,6 +116,8 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 - Strava users will be able to upload their running data to make matchmaking even more accurate.
 
 - Connect with the community. Use the MyArea Chat to make and comment on posts from other runners in your area.
+
+
 
 ### 4. My T accounting MTD software
 

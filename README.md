@@ -143,7 +143,7 @@ Short description
 
 
 
-You can reach out to me at:
+### You can reach out to me at:
 
 #### Gmail:
 - bodasimit22@gmail.com
@@ -152,10 +152,4 @@ You can reach out to me at:
 #### WhatsApp no.
 +91 81405 73799 /
 +91 82385 51009
-
-
-
-## Appendix
-
-Any additional information goes here
 

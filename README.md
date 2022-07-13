@@ -40,10 +40,6 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 ### 1. MeetingApp
 
-Short description
-
- Meeting App
- 
  ![App logo](https://user-images.githubusercontent.com/108887237/178771752-e57f63c3-b2f4-403f-84e3-41647b5349a2.png)
  
  ### Preview
@@ -72,9 +68,9 @@ Short description
 
 - Simple and convenient to use, now you can focus more of your time on your business and customers, and less time managing your employees!
 
-------------------------------------------------
+
 #### Why businesses LOVE ezClocker!
-------------------------------------------------
+
 • Easy to use, employees can clock in with a tap of a button using their mobile phone.
 
 • Built-in GPS map shows where employees clock in and out (does not track their movements).

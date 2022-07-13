@@ -7,7 +7,7 @@
 
 Implemented features for various applications in Java & C++.
 Determined architectural and product design details for open-ended tasks or specifications.
-Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development.
+Collaborated with user research, product management, design, and support teams to ensure quality in all phases of app development.
 Wrote elegant, self-documenting code, easy to read and adapt for other developers.
 Reviewed design specs and engineering docs and provide feedback.
 

@@ -101,6 +101,9 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 ### Preview
 
+![buddy-screen](https://user-images.githubusercontent.com/108887237/178785337-22bafbd5-8267-423f-8a9f-8ec203746266.png)
+
+
 - Match. Meet. Motivate. Find your perfect running partner today!
 
 - Let’s face it, running alone can really suck. Whether you’re trying to get back in shape, impress the office by doing a marathon or are a seasoned runner with many an ultra under your belt, you’ve definitely felt the pull of the sofa, or looked out the window at a cold, wet and dark world only to decide your goals can wait for tomorrow.

@@ -34,7 +34,7 @@ So far, We have worked on almost 8+ apps. Most of these apps were developed whil
 In our portfolio, we only showcasing apps that we personally designed and developed.
 
 
-#### Note: If you want to know the cost of building an mobile app, Our contact info is listed at the bottom. We specialize in building high quality and cost effective Android apps. Keep reading to see some of my existing apps.
+#### Note: If you want to know the cost of building an mobile app, Our contact info is listed at the bottom. We specialize in building high quality and cost effective Android apps. Keep reading to see some of our existing apps.
 
 
 

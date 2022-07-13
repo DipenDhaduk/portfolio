@@ -52,6 +52,9 @@ In our portfolio, we only showcasing apps that we personally designed and develo
   create users whom he/she wishes to attend the meeting. You can show the user status of the meeting as start/end. By using this app you can 
   maintain a uniform way of scheduling meetings in your occupation.
 
+&nbsp; 
+&nbsp;
+&nbsp; 
 
 ### 2. ezClocker: Employee Time Track
 
@@ -87,6 +90,9 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 • Streamline and modernize the traditional time card system.
 
+&nbsp; 
+&nbsp;
+&nbsp;
 
 
 ### 3. BuddyUp: Find Running Partners
@@ -117,7 +123,9 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 - Connect with the community. Use the MyArea Chat to make and comment on posts from other runners in your area.
 
-
+&nbsp; 
+&nbsp;
+&nbsp;
 
 ### 4. My T accounting MTD software
 

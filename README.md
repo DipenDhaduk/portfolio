@@ -50,7 +50,7 @@ Short description
   maintain a uniform way of scheduling meetings in your occupation.
 
 
-### 2. Ez Clocker
+### 2. ezClocker: Employee Time Track
 
 - ezClocker is a simple to use employee time tracking and shift scheduling tool with GPS map to verify clock in and out locations. Ideal for any business with remote employees or those looking to replace the traditional time card system with something more modern and streamlined, ezClocker lets you provide your employees with a time clock on their mobile device! 
 
@@ -79,13 +79,32 @@ Short description
 
 • Streamline and modernize the traditional time card system.
 
-### 3. BuddyUp
+### 3. BuddyUp: Find Running Partners
 
-Short description
+- Match. Meet. Motivate. Find your perfect running partner today!
 
-Long description
+- Let’s face it, running alone can really suck. Whether you’re trying to get back in shape, impress the office by doing a marathon or are a seasoned runner with many an ultra under your belt, you’ve definitely felt the pull of the sofa, or looked out the window at a cold, wet and dark world only to decide your goals can wait for tomorrow.
 
-### 4. MyT Accounting
+- Well, not anymore. BuddyUp helps you find, like and match with your perfect running partner near you so you can start knocking down goals together. Use BuddyUp and make running alone a thing of the past!
+
+#### HOW DOES IT WORK
+
+- Sign up and create your profile. Sync up your fitness data and show other runners who you are by uploading photos and answering icebreaker questions.
+
+- See runners near you. Find and like people you want to run with and don’t worry, we’ll only show you profiles we think are a good fitness match.
+
+- Match time! When they like you back, it’s over to you. See if you get along and then strap on your running shoes and hit the road.
+
+- It takes a village. Some runs are fast and fitness-focused while others are slower and just about getting a sweat on. Find different running partners as your goals evolve.
+
+### THERE’S MORE TO COME!
+
+- Strava users will be able to upload their running data to make matchmaking even more accurate.
+
+- Connect with the community. Use the MyArea Chat to make and comment on posts from other runners in your area.
+
+### 4. My T accounting MTD software
+
 
 - My T is the perfect accounting tool for sole traders such as plumbers, builders, electricians and anyone working in a trade as well as freelance professionals. My T has been specifically designed and built with your accounting requirements in mind. 
 - My T is fully making tax digital compliant and will help both you and your accountant keep on top of expenses, bank statements, invoices and CIS statements. All the data uploaded to the app is stored safely and securely and is accessed via the cloud.

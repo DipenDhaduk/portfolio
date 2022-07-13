@@ -46,7 +46,7 @@ Short description
  
  ![App logo](https://user-images.githubusercontent.com/108887237/178771752-e57f63c3-b2f4-403f-84e3-41647b5349a2.png)
  
- 
+ ### Preview
 ![meeting-app](https://user-images.githubusercontent.com/108887237/178772781-cb7622f6-f51b-4b8c-84bc-d3bdae4e330d.jpg)
 
  
@@ -60,6 +60,8 @@ Short description
 ### 2. ezClocker: Employee Time Track
 
 ![App-logo](https://user-images.githubusercontent.com/108887237/178771872-5d7a9edb-db0b-4b30-a193-d1f221547a20.png)
+
+### Preview
 
 
 - ezClocker is a simple to use employee time tracking and shift scheduling tool with GPS map to verify clock in and out locations. Ideal for any business with remote employees or those looking to replace the traditional time card system with something more modern and streamlined, ezClocker lets you provide your employees with a time clock on their mobile device! 
@@ -93,6 +95,8 @@ Short description
 
 ![app-logo](https://user-images.githubusercontent.com/108887237/178771960-0c364360-6f83-414e-b254-4194cb591dca.png)
 
+### Preview
+
 - Match. Meet. Motivate. Find your perfect running partner today!
 
 - Let’s face it, running alone can really suck. Whether you’re trying to get back in shape, impress the office by doing a marathon or are a seasoned runner with many an ultra under your belt, you’ve definitely felt the pull of the sofa, or looked out the window at a cold, wet and dark world only to decide your goals can wait for tomorrow.
@@ -119,7 +123,7 @@ Short description
 
 ![App-logo](https://user-images.githubusercontent.com/108887237/178772044-6487bed6-b5c9-4120-9d90-9702cd7e1aef.png)
 
-
+### Preview
 ![filal-myt](https://user-images.githubusercontent.com/108887237/178772887-fef14a5f-aa95-4cb4-a368-4910f82fc4ec.png)
 
 

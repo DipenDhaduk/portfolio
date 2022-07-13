@@ -43,6 +43,10 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 Short description
 
  Meeting App
+ 
+ ![App logo](https://user-images.githubusercontent.com/108887237/178771752-e57f63c3-b2f4-403f-84e3-41647b5349a2.png)
+
+ 
 - Meeting app helps you to schedule meeting on your selective time.
        
 - This application provides services to manage meetings in offices, schools, etc. By sharing available time slots of your meeting area. Admin can 
@@ -51,6 +55,9 @@ Short description
 
 
 ### 2. ezClocker: Employee Time Track
+
+![App-logo](https://user-images.githubusercontent.com/108887237/178771872-5d7a9edb-db0b-4b30-a193-d1f221547a20.png)
+
 
 - ezClocker is a simple to use employee time tracking and shift scheduling tool with GPS map to verify clock in and out locations. Ideal for any business with remote employees or those looking to replace the traditional time card system with something more modern and streamlined, ezClocker lets you provide your employees with a time clock on their mobile device! 
 
@@ -81,6 +88,8 @@ Short description
 
 ### 3. BuddyUp: Find Running Partners
 
+![app-logo](https://user-images.githubusercontent.com/108887237/178771960-0c364360-6f83-414e-b254-4194cb591dca.png)
+
 - Match. Meet. Motivate. Find your perfect running partner today!
 
 - Let’s face it, running alone can really suck. Whether you’re trying to get back in shape, impress the office by doing a marathon or are a seasoned runner with many an ultra under your belt, you’ve definitely felt the pull of the sofa, or looked out the window at a cold, wet and dark world only to decide your goals can wait for tomorrow.
@@ -105,6 +114,7 @@ Short description
 
 ### 4. My T accounting MTD software
 
+![App-logo](https://user-images.githubusercontent.com/108887237/178772044-6487bed6-b5c9-4120-9d90-9702cd7e1aef.png)
 
 - My T is the perfect accounting tool for sole traders such as plumbers, builders, electricians and anyone working in a trade as well as freelance professionals. My T has been specifically designed and built with your accounting requirements in mind. 
 - My T is fully making tax digital compliant and will help both you and your accountant keep on top of expenses, bank statements, invoices and CIS statements. All the data uploaded to the app is stored safely and securely and is accessed via the cloud.

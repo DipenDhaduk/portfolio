@@ -173,6 +173,6 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 - dipendhaduk1009@gmail.com
 
 #### WhatsApp no.
-+91 81405 73799 /
-+91 82385 51009
+- Simit boda : +91 81405 73799 
+- Dipen dhaduk : +91 82385 51009
 

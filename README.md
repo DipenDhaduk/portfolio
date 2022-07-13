@@ -12,7 +12,7 @@ Wrote elegant, self-documenting code, easy to read and adapt for other developer
 Reviewed design specs and engineering docs and provide feedback.
 
 
-Key Skills
+#### Key Skills
 
 - Software engineering
 - Analytical skills
@@ -22,7 +22,7 @@ Key Skills
 - End-to-end systems
 - Collaboration
 
-Languages
+#### Languages
 
 - JAVA
 - C++

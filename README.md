@@ -30,7 +30,7 @@ Reviewed design specs and engineering docs and provide feedback.
 
 We are an Android Developer, passionate about building great apps. For me app development is not just about coding, it’s also about creating an awesome user experience.
 
-So far, I have worked on almost 8+ apps. Most of these apps were developed while I was working at a day job.
+So far, We have worked on almost 8+ apps. Most of these apps were developed while We was working at a day job.
 In our portfolio, we only showcasing apps that we personally designed and developed.
 
 

@@ -62,8 +62,7 @@ In our portfolio, we only showcasing apps that we personally designed and develo
 
 ### Preview
 
-![ez-screen](https://user-images.githubusercontent.com/108887237/178787398-5c9a2528-decb-4a83-935c-b04e1e25b0b4.png)
-
+![ez-screen](https://user-images.githubusercontent.com/108887237/178788272-423a2538-614a-4d73-905e-d7a26c3d43c0.png)
 
 - ezClocker is a simple to use employee time tracking and shift scheduling tool with GPS map to verify clock in and out locations. Ideal for any business with remote employees or those looking to replace the traditional time card system with something more modern and streamlined, ezClocker lets you provide your employees with a time clock on their mobile device! 
 
